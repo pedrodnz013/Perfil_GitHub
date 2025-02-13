@@ -8,16 +8,14 @@
 
 ---
 
-### Meu nome é [Seu Nome]
+### Meu nome é Pedro Henrique Gomes Diniz
 
 💻 **Tecnologias que trabalho:**  
-`Java | Spring Boot | AWS | React JS | Angular | Typescript | Javascript | HTML | CSS`
+`Angular | Python | Javascript | HTML5 | CSS3`
 
 🚀 **Sobre mim:**  
-- 🏢 Engenheiro de Software @ **[Sua Empresa](https://linkdaempresa.com)**
-- 🏆 **Microsoft MVP**
-- 📚 Produtor de conteúdo técnico no meu [canal do YouTube](https://youtube.com/seucanal) e no meu [Instagram](https://instagram.com/seuinstagram)
-- 🎓 Bacharel em **Ciência da Computação**
+- 🎓 Técnico em Conserto de Aparelhos
+- 🎓 Técnico em Desenvolvimento de Sistemas
 - 💡 Apaixonado por desenvolvimento web
 - 🎯 Adoro um bom desafio!
 
