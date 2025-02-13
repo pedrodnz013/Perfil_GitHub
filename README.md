@@ -1,9 +1,9 @@
 <h1 align="center">Olá! 👋</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/seuperfil/">LinkedIn</a> •
-  <a href="https://seuwebsite.com">Website</a> •
-  <a href="mailto:seuemail@gmail.com">Email</a>
+  <a href="https://www.linkedin.com/in/pedrohenriquegdnz/?trk=opento_sprofile_topcard">LinkedIn</a> •
+  <a href="https://seuwebsite.com](https://phdnz.achei.digital/)">Website</a> •
+  <a href="mailto:pedrohgomesdiniz@gmail.com">Email</a>
 </p>
 
 ---
@@ -18,6 +18,16 @@
 - 🎓 Técnico em Desenvolvimento de Sistemas
 - 💡 Apaixonado por desenvolvimento web
 - 🎯 Adoro um bom desafio!
+
+---
+
+💻 **Meus Projetos Favoritos:**
+
+- 📝 <a href="https://seuwebsite.com](https://phdnz.achei.digital/">Site Potifólio</a> 
+
+- 📱 <a href="https://phdnz.achei.digital/index_pokemon.html">Pokedex</a>
+
+- 🏋️‍♀️ <a href="https://personaljuliana.achei.digital/">Personal Juliana</a>
 
 ---
 
